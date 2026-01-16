@@ -166,7 +166,6 @@ export default function TableArt() {
       </div>
     </Card>
 
-    {/* Overlay */}
     <OverlayPanel ref={overlayRef} style={{ width: 300, padding: '1rem', left: '2px', top: '-2px' }}   >
       <Card className="border-0 shadow-xl">
 
@@ -198,7 +197,6 @@ export default function TableArt() {
       </Card>
     </OverlayPanel>
 
-    {/* Table */}
     <Card className="border-0 bg-white/5 backdrop-blur-xl shadow-2xl overflow-hidden">
       <DataTable
         value={rows}
