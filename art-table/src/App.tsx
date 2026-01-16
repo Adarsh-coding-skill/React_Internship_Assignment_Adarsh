@@ -1,6 +1,6 @@
 
 
-import TableArt from './component/TableArt';
+import TableArt from './component/tableArt';
 
 
 
