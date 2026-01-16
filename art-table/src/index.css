@@ -60,7 +60,7 @@ body {
 
 
 .p-card {
-  border-radius: 16px !important;
+  border-radius: 16px ;
 
 }
 
@@ -77,31 +77,31 @@ body {
 }
 
 .p-datatable {
-  background: transparent !important;
+  background: transparent ;
 }
 
 .p-datatable thead th {
-  background: rgba(255, 255, 255, 0.04) !important;
-  color: #c7d2fe !important;
-  border-color: rgba(255, 255, 255, 0.08) !important;
+  background: rgba(255, 255, 255, 0.04) ;
+  color: #c7d2fe ;
+  border-color: rgba(255, 255, 255, 0.08) ;
 }
 
 .p-datatable tbody tr {
-  background: transparent !important;
-  border-color: rgba(255, 255, 255, 0.06) !important;
+  background: transparent ;
+  border-color: rgba(255, 255, 255, 0.06) ;
 }
 
 .p-datatable tbody tr:hover {
-  background: rgba(99, 102, 241, 0.08) !important;
+  background: rgba(99, 102, 241, 0.08) ;
 }
 
 .p-paginator {
-  background: transparent !important;
-  border-color: rgba(255, 255, 255, 0.08) !important;
+  background: transparent ;
+  border-color: rgba(255, 255, 255, 0.08) ;
 }
 
 .p-button {
-  border-radius: 12px !important;
+  border-radius: 12px ;
   padding: 2px;
 }
 button {
